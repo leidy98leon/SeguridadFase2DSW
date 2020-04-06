@@ -1,0 +1,56 @@
+nav{
+    background-color: violet;
+    text-align: center;
+    font: bold 18px verdana, cambria math, color white;
+}
+header{
+    background-color: dodgerblue;
+    text-align: center;
+    font: bold 30px verdana, cambria math, color white;
+}
+nav, header, .contenedor, .autores, footer{
+    max-width: 90%;
+    margin: auto;
+    border-radius: 0.4em;
+}
+article {
+    text-align: center;
+    font-size: 18px;
+}
+p {
+    text-align: justify;
+}
+h6 {
+    font-size: 12px;  
+}
+aside {
+    text-align: center; 
+}
+section {
+    background-color: palegreen;
+}
+h6 {
+    text-align: center;
+}
+
+.autores {
+    text-align: center;
+}
+footer {
+    background-color: peru;
+    
+}
+.contenedor{
+    background-color: navajowhite;
+}
+body{
+    background-color: oldlace;
+    color: black
+}
+h3 {
+    text-align: center; 
+}
+article h4 {
+    text-align: center;
+}
+
